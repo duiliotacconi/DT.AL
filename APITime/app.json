@@ -1,0 +1,28 @@
+{
+  "id": "58878f31-5e5b-4b7f-b247-cfb7fcd8dfb6",
+  "name": "DT DEMO API Time",
+  "publisher": "DT",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "runtime": "11.0",
+  "screenshots": [],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true},
+  "target": "Cloud"
+}
