@@ -1,0 +1,39 @@
+{
+  "id": "fd71f9bc-9b84-4adb-b957-946b3960287a",
+  "name": "DT.TableExt",
+  "publisher": "Duilio Tacconi",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://duiliotacconi.com/",
+  "logo": "./img/logo.png",
+  "dependencies": [
+    {
+      "id": "6313ff3b-51c5-487e-8243-edf57513c89b",
+      "name": "DT.BulkInsert",
+      "publisher": "Duilio Tacconi",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
