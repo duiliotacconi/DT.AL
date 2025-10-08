@@ -188,7 +188,6 @@ Full multi-language support with complete translations:
 | Language | Code | Status | Translations |
 |----------|------|--------|--------------|
 | English | en-US | Source | 206 |
-| Arabic | ar-SA | Complete | 206 |
 | Italian | it-IT | Complete | 206 |
 | German | de-DE | Complete | 206 |
 | Spanish | es-ES | Complete | 206 |
