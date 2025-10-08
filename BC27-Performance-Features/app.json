@@ -1,0 +1,28 @@
+{
+    "id": "12345678-1234-1234-1234-123456789012",
+    "application": "26.0.0.0",
+    "platform": "26.0.0.0",
+    "idRanges": [
+        {
+            "from": 55000,
+            "to": 55100
+        }
+    ],
+    "name": "BC27 Performance Features Demo",
+    "publisher": "Duilio Tacconi",
+    "version": "1.0.0.0",
+    "brief": "Demonstration of new performance features in Business Central 27",
+    "description": "This app demonstrates the new performance features introduced in BC 27 including Posting order, SQL calls in Performance Profiler, LockTimeout, Guid.CreateSequentialGuid, Rec.Truncate, and Optimized FlowField Calculations",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "runtime": "16.0",
+    "features": [
+        "NoImplicitWith",
+        "TranslationFile"
+    ]
+}

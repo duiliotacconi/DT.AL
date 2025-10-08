@@ -1,0 +1,17 @@
+# AL Language specific files
+*.app
+
+# AL Packages
+.alpackages/
+
+# Snapshots
+.snapshots/
+
+# VS Code settings
+.vscode/
+
+# Radpak
+rad.json
+
+# Object ID Ninja
+.objidconfig

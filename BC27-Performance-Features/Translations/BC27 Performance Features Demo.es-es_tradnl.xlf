@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-es_tradnl" original="BC27 Performance Features Demo.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2716516865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Demo</source>
+          <target>Demostración de Cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Customer Demo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2716516865 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>[NAB: SUGGESTION]Nº cliente</target>
+          <target>[NAB: SUGGESTION]N.º de cliente</target>
+          <target>[NAB: SUGGESTION]N.º cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Customer Demo - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2716516865 - Field 1524911010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Sales Date</source>
+          <target>Última fecha de venta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Customer Demo - Field Last Sales Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2716516865 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>[NAB: SUGGESTION]Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Customer Demo - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2716516865 - Field 2662608856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Sales Entries</source>
+          <target>N.º de movimientos de venta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Customer Demo - Field No. of Sales Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1988126737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUID Performance Test Table</source>
+          <target>Tabla de prueba de rendimiento GUID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Guid Performance Test Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1988126737 - Field 788537400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Time</source>
+          <target>[NAB: SUGGESTION]Tiempo creación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Guid Performance Test Table - Field Creation Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1988126737 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Guid Performance Test Table - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1988126737 - Field 3483320773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance Notes</source>
+          <target>Notas de rendimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Guid Performance Test Table - Field Performance Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1988126737 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID</source>
+          <target>[NAB: SUGGESTION]Id. de registro</target>
+          <target>[NAB: SUGGESTION]Id. de registro</target>
+          <target>[NAB: SUGGESTION]Id. del registro</target>
+          <target>[NAB: SUGGESTION]Id. del registro</target>
+          <target>[NAB: SUGGESTION]Id. registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Guid Performance Test Table - Field Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1988126737 - Field 2618029887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Type</source>
+          <target>Tipo de registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Guid Performance Test Table - Field Record Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1268937166 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Posting Order Log - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1268937166 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]Nº mov.</target>
+          <target>[NAB: SUGGESTION]N.º mov.</target>
+          <target>[NAB: SUGGESTION]N.º de movimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Posting Order Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1268937166 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>[NAB: SUGGESTION]Nº línea</target>
+          <target>[NAB: SUGGESTION]N.º línea</target>
+          <target>[NAB: SUGGESTION]N.º de línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Posting Order Log - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1268937166 - Field 158172202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Type</source>
+          <target>[NAB: SUGGESTION]Tipo línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Posting Order Log - Field Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profiling Node</source>
+          <target>Nodo de generación de perfiles</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]Nº mov.</target>
+          <target>[NAB: SUGGESTION]N.º mov.</target>
+          <target>[NAB: SUGGESTION]N.º de movimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 971044367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Name</source>
+          <target>[NAB: SUGGESTION]Nombre de función</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Function Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 3286003210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hit Count</source>
+          <target>[NAB: SUGGESTION]Recuento de resultados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Hit Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 653747200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is SQL</source>
+          <target>Es SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Is SQL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 66992343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Number</source>
+          <target>Número de línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Line Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 1618236431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Node ID</source>
+          <target>[NAB: SUGGESTION]Id. nodo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Node ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 3711240756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID</source>
+          <target>[NAB: SUGGESTION]Id. objeto</target>
+          <target>[NAB: SUGGESTION]Id. de objeto</target>
+          <target>[NAB: SUGGESTION]ID objeto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Object ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 1418569422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <target>[NAB: SUGGESTION]Nombre de objeto</target>
+          <target>[NAB: SUGGESTION]Nombre objeto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Object Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <target>[NAB: SUGGESTION]Tipo objeto</target>
+          <target>[NAB: SUGGESTION]Tipo de objeto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2002860834 - Field 2798619357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Statement</source>
+          <target>Instrucción SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Profiling Node - Field SQL Statement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1294644360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Entry</source>
+          <target>Movimiento de venta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Sales Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1294644360 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>[NAB: SUGGESTION]Importe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Sales Entry - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1294644360 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>[NAB: SUGGESTION]Nº cliente</target>
+          <target>[NAB: SUGGESTION]N.º de cliente</target>
+          <target>[NAB: SUGGESTION]N.º cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Sales Entry - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1294644360 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>[NAB: SUGGESTION]Tipo documento</target>
+          <target>[NAB: SUGGESTION]Tipo de documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Sales Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1294644360 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]Nº mov.</target>
+          <target>[NAB: SUGGESTION]N.º mov.</target>
+          <target>[NAB: SUGGESTION]N.º de movimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Sales Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1294644360 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>[NAB: SUGGESTION]Fecha registro</target>
+          <target>[NAB: SUGGESTION]Fecha de registro</target>
+          <target>[NAB: SUGGESTION]Fecha reg.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Sales Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate Demo Table</source>
+          <target>Tabla de demostración de Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>[NAB: SUGGESTION]Importe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Field 2500892784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <target>[NAB: SUGGESTION]Fecha de creación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Field Created Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]Nº mov.</target>
+          <target>[NAB: SUGGESTION]N.º mov.</target>
+          <target>[NAB: SUGGESTION]N.º de movimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Field 984476005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified</source>
+          <target>[NAB: SUGGESTION]Última modificación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Field Last Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 514555293 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>[NAB: SUGGESTION]Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Demo Table - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate Log Table</source>
+          <target>Tabla de registro de Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]Nº mov.</target>
+          <target>[NAB: SUGGESTION]N.º mov.</target>
+          <target>[NAB: SUGGESTION]N.º de movimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Field 3127005848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation DateTime</source>
+          <target>Fecha/hora de operación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Field Operation DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Field 3156524383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation Type</source>
+          <target>Tipo de operación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Field Operation Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Field 2699180384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records Affected</source>
+          <target>Registros afectados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Field Records Affected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <target>[NAB: SUGGESTION]Nombre tabla</target>
+          <target>[NAB: SUGGESTION]Nombre de tabla</target>
+          <target>[NAB: SUGGESTION]Nombre de la tabla</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2626921960 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>[NAB: SUGGESTION]Id. usuario</target>
+          <target>[NAB: SUGGESTION]Id. de usuario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DT Truncate Log Table - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2566973998 - NamedType 3924526594" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 profiling nodes extracted and displayed.</source>
+          <target>%1 nodos de generación de perfiles extraídos y mostrados.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Number of profiling nodes</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT FlowField Optimization Demo - NamedType NodesExtractedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 3576202793" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to continue?</source>
+          <target>¿Desea continuar?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType ContinueQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 3563305185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This demo will:</source>
+          <target>Esta demostración hará:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType DemoWillLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 1999354891" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Examples:</source>
+          <target>Ejemplos:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType ExamplesLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 215669783" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed to start background session.</source>
+          <target>No se pudo iniciar la sesión en segundo plano.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType FailedToStartBackgroundSessionErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 2184892397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 not found.</source>
+          <target>Producto %1 no encontrado.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Item No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType ItemNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 3734205098" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lock timeout must be greater than 0 seconds.</source>
+          <target>El tiempo de espera de bloqueo debe ser mayor que 0 segundos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType LockTimeoutMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 1966629216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No items found. Please create at least one item to run this demo.</source>
+          <target>No se encontraron productos. Cree al menos un producto para ejecutar esta demostración.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType NoItemsFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 1904284849" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation succeeded!\\ \\Original timeout duration: %1 seconds\\New timeout duration: %2 seconds\\Elapsed time: %3 seconds</source>
+          <target>¡Operación correcta!\\ \\Duración del tiempo de espera original: %1 segundos\\Nueva duración del tiempo de espera: %2 segundos\\Tiempo transcurrido: %3 segundos</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Original timeout, %2 = New timeout, %3 = Elapsed time</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType OperationSucceededMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 3868920883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1. Start a background session that locks an Item record for 15 seconds</source>
+          <target>1. Iniciar una sesión en segundo plano que bloquea un registro de Producto durante 15 segundos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType Step1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 4032900822" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2. Allow you to set Database.LockTimeoutDuration (BC 27 feature)</source>
+          <target>2. Permitirle establecer Database.LockTimeoutDuration (característica de BC 27)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType Step2Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 2006519413" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3. Try to access the locked record</source>
+          <target>3. Intentar acceder al registro bloqueado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType Step3Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 1784210992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>- Timeout &gt; 15 sec → Should succeed (lock released after 15 sec)</source>
+          <target>- Tiempo de espera &gt; 15 seg → Debería tener éxito (bloqueo liberado después de 15 seg)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType TimeoutGreaterThan15Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2334946661 - NamedType 2107666801" size-unit="char" translate="yes" xml:space="preserve">
+          <source>- Timeout &lt; 15 sec → Lock timeout error</source>
+          <target>- Tiempo de espera &lt; 15 seg → Error de tiempo de espera de bloqueo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT LockTimeout Demo - NamedType TimeoutLessThan15Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3398506205 - NamedType 3810741809" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order posted successfully!</source>
+          <target>¡Pedido de venta registrado correctamente!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Demo - NamedType SalesOrderPostedSuccessfullyMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3398506205 - Method 2084031962 - NamedType 4172508015" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>N.º línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Demo - Method ShowCreatedLines - NamedType LineNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3398506205 - Method 2084031962 - NamedType 961827798" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Demo - Method ShowCreatedLines - NamedType TypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3398506205 - Method 2084031962 - NamedType 1314000525" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>N.º</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Demo - Method ShowCreatedLines - NamedType NoLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3398506205 - Method 2084031962 - NamedType 1668520216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines created for %1 %2:</source>
+          <target>Líneas creadas para %1 %2:</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Document Type, %2 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Demo - Method ShowCreatedLines - NamedType LinesCreatedForLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3398506205 - Method 2084031962 - NamedType 1755180339" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.</source>
+          <target>%1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Counter</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Demo - Method ShowCreatedLines - NamedType LineItemLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType DescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 4172508015" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>N.º línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType LineNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 3035987594" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line processed %1:</source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Counter</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source has been modified.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType LineProcessedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 817293845" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LogMessage is empty but RecordCount = %1</source>
+          <target>LogMessage está vacío pero RecordCount = %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record count</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType LogMessageEmptyMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 461794111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No lines were captured in the temp table.</source>
+          <target>No se capturaron líneas en la tabla temporal.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType NoLinesCapturedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 1979967096" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total lines processed: %1\\ \\Legacy Posting Feature: %2\\ \\%3</source>
+          <target>Total de líneas procesadas: %1\\ \\Característica de registro heredada: %2\\ \\%3</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record count, %2 = Feature status, %3 = Log message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType TotalLinesProcessedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1800383584 - NamedType 961827798" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Posting Order Subscriber - NamedType TypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 118881108" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance comparison with FILTERING:\\ \\Total records created: %1\\Filtered records (%2 to %3): %4\\ \\DeleteAll with filter: %5 ms\\Truncate with filter: %6 ms\\ \\Improvement: %7%\\ \\Note: Truncate works with filters and is faster!</source>
+          <target>Comparación de rendimiento con FILTRADO:\\ \\Registros totales creados: %1\\Registros filtrados (%2 a %3): %4\\ \\DeleteAll con filtro: %5 ms\\Truncate con filtro: %6 ms\\ \\Mejora: %7%\\ \\Nota: ¡Truncate funciona con filtros y es más rápido!</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Total records, %2 = Filter From, %3 = Filter To, %4 = Filtered record count, %5 = DeleteAll time, %6 = Truncate time, %7 = Improvement percentage</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType PerformanceComparisonFilteringMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 2585194780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance comparison with FILTERING:\\ \\Total records created: %1\\Filtered records (%2 to %3): %4\\ \\DeleteAll with filter: %5 ms\\Truncate with filter: %6 ms\\ \\Performance degradation: %7%\\ \\WARNING: In this case, Truncate with filters is SLOWER than DeleteAll!\\Consider using DeleteAll for filtered deletions when deleting a small subset of records.</source>
+          <target>Comparación de rendimiento con FILTRADO:\\ \\Registros totales creados: %1\\Registros filtrados (%2 a %3): %4\\ \\DeleteAll con filtro: %5 ms\\Truncate con filtro: %6 ms\\ \\Degradación del rendimiento: %7%\\ \\ADVERTENCIA: ¡En este caso, Truncate con filtros es MÁS LENTO que DeleteAll!\\Considere usar DeleteAll para eliminaciones filtradas al eliminar un subconjunto pequeño de registros.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Total records, %2 = Filter From, %3 = Filter To, %4 = Filtered record count, %5 = DeleteAll time, %6 = Truncate time, %7 = Degradation percentage</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType PerformanceComparisonFilteringSlowerMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 2842742159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance comparison for %1 records (FULL TABLE):\\ \\DeleteAll: %2 ms\\Truncate: %3 ms\\ \\Note: Truncate is optimized for full table deletion.</source>
+          <target>Comparación de rendimiento para %1 registros (TABLA COMPLETA):\\ \\DeleteAll: %2 ms\\Truncate: %3 ms\\ \\Nota: Truncate está optimizado para la eliminación de tabla completa.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record count, %2 = DeleteAll time in milliseconds, %3 = Truncate time in milliseconds</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType PerformanceComparisonFullTableMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 3914061860" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records must be greater than 0.</source>
+          <target>El número de registros debe ser mayor que 0.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType RecordCountMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 3172945005" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Testing with %1 records (filtering from %2 to %3)...</source>
+          <target>Probando con %1 registros (filtrando de %2 a %3)...</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record count, %2 = Filter From value, %3 = Filter To value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType TestingWithRecordsFilteringMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 2406755997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Testing with %1 records...</source>
+          <target>Probando con %1 registros...</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record count</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType TestingWithRecordsMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 968069251 - NamedType 1165098304" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate operations completed.\\ \\Truncate is NOT possible when:\\ \\• Table is not a SQL table\\ \\• Table is a system table\\ \\• Used inside try functions\\ \\• Security filters are active\\ \\• There are subscribers to OnBeforeDelete/OnAfterDelete\\ \\• Table has Media fields\\ \\• Too many rows are Marked\\ \\• There are filters on FlowFields\\ \\Always test performance with your specific data patterns.</source>
+          <target>Operaciones de Truncate completadas.\\ \\Truncate NO es posible cuando:\\ \\• La tabla no es una tabla SQL\\ \\• La tabla es una tabla del sistema\\ \\• Se usa dentro de funciones try\\ \\• Los filtros de seguridad están activos\\ \\• Hay suscriptores a OnBeforeDelete/OnAfterDelete\\ \\• La tabla tiene campos Media\\ \\• Demasiadas filas están marcadas (Marked)\\ \\• Hay filtros en FlowFields\\ \\Siempre pruebe el rendimiento con sus patrones de datos específicos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Rec Truncate Demo - NamedType TruncateOperationsCompletedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2779520303 - NamedType 3789985513" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hooray!\\ \\GUID Comparison (4 consecutive records):\\ \\Standard GUIDs (random order):\\%1\\ \\Sequential GUIDs (ordered):\\%2\\ \\Sequential GUIDs are more performant for database indexing!</source>
+          <target>¡Hurra!\\ \\Comparación de GUID (4 registros consecutivos):\\ \\GUID estándar (orden aleatorio):\\%1\\ \\GUID secuenciales (ordenados):\\%2\\ \\¡Los GUID secuenciales son más eficientes para la indexación de bases de datos!</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Standard GUIDs list, %2 = Sequential GUIDs list</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Sequential Guid Demo - NamedType GuidComparisonMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2779520303 - NamedType 3865284284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance comparison with %1 records:\\ \\Standard GUID: %2 ms\\Sequential GUID: %3 ms\\ \\Improvement: %4%</source>
+          <target>Comparación de rendimiento con %1 registros:\\ \\GUID estándar: %2 ms\\GUID secuencial: %3 ms\\ \\Mejora: %4%</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record count, %2 = Standard GUID time, %3 = Sequential GUID time, %4 = Improvement percentage</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Sequential Guid Demo - NamedType PerformanceComparisonMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2779520303 - NamedType 3914061860" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records must be greater than 0.</source>
+          <target>El número de registros debe ser mayor que 0.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Sequential Guid Demo - NamedType RecordCountMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2779520303 - NamedType 124992251" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sequential GUID Record %1</source>
+          <target>Registro GUID Secuencial %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Sequential Guid Demo - NamedType SequentialGuidRecordLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2779520303 - NamedType 1261132669" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard GUID Record %1</source>
+          <target>Registro GUID Estándar %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Record number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Sequential Guid Demo - NamedType StandardGuidRecordLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2779520303 - NamedType 2406755997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Testing with %1 records...</source>
+          <target>Probando con %1 registros...</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Number of records</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT Sequential Guid Demo - NamedType TestingWithRecordsMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3014493327 - NamedType 3720626351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile download cancelled or failed.</source>
+          <target>Descarga de perfil cancelada o fallida.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT SQL Calls Profiler Demo - NamedType ProfileDownloadCancelledMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3014493327 - NamedType 647078506" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile downloaded successfully!\\You can open it in Visual Studio Code with the AL Profiler extension\\to view SQL statements, execution times, and row counts.</source>
+          <target>¡Perfil descargado correctamente!\\Puede abrirlo en Visual Studio Code con la extensión AL Profiler\\para ver instrucciones SQL, tiempos de ejecución y recuentos de filas.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DT SQL Calls Profiler Demo - NamedType ProfileDownloadedSuccessfullyMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC27 Performance Features Demo</source>
+          <target>Demostración de características de rendimiento de BC27</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This app demonstrates the new performance features introduced in Business Central 27.</source>
+          <target>Esta aplicación demuestra las nuevas funciones de rendimiento introducidas en Business Central 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType DescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 482611872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Optimized FlowField Calculations: Improved performance for FlowField operations</source>
+          <target>Cálculos FlowField Optimizados: Rendimiento mejorado para operaciones FlowField</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType FlowFieldInfoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 3378221178" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Order: Improved posting sequence for better performance</source>
+          <target>Orden de Registro: Secuencia de registro mejorada para un mejor rendimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType InventoryPostingInfoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 881096440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LockTimeout: Better handling of database lock timeouts</source>
+          <target>LockTimeout: Mejor manejo de los tiempos de espera de bloqueo de base de datos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType LockTimeoutInfoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 1382634222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Guid.CreateSequentialGuid: More performant GUID generation for database keys</source>
+          <target>Guid.CreateSequentialGuid: Generación de GUID más eficiente para claves de base de datos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType SequentialGuidInfoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 226034597" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Calls in Performance Profiler: View detailed SQL execution information</source>
+          <target>Llamadas SQL en Perfilador de Rendimiento: Ver información detallada de ejecución SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType SQLCallsInfoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 1780485894" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rec.Truncate: Faster data cleanup for large tables</source>
+          <target>Rec.Truncate: Limpieza de datos más rápida para tablas grandes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType TruncateInfoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - NamedType 94419588" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to the BC 27 Performance Features Demo!</source>
+          <target>¡Bienvenido a la Demo de Funciones de Rendimiento de BC 27!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - NamedType WelcomeLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Control 3704584207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application Features</source>
+          <target>Características de aplicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Control ApplicationFeatures - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Control 1021118283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Developer Features</source>
+          <target>Características de desarrollador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Control DeveloperFeatures - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC 27 Performance Features Demonstration</source>
+          <target>Demostración de características de rendimiento de BC 27</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Control 561197438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Server Team Features</source>
+          <target>Características del equipo de servidor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Control ServerFeatures - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 3930027771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demo Data Lists</source>
+          <target>Listas de datos de demostración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action Lists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 632936411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the FlowField performance demonstration page.</source>
+          <target>Abre la página de demostración de rendimiento de FlowField.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action FlowFieldDemo2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 632936411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FlowField Performance Demo</source>
+          <target>Demostración de rendimiento FlowField</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action FlowFieldDemo2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 3050807915 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the list of GUID performance test records.</source>
+          <target>Abre la lista de registros de prueba de rendimiento GUID.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action GUIDPerformanceTest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 3050807915 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUID Performance Test</source>
+          <target>Prueba de rendimiento GUID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action GUIDPerformanceTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1664019558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the log of truncate operations.</source>
+          <target>Abre el registro de operaciones de truncado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action TruncateMonitor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1664019558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate Performance Monitor</source>
+          <target>Monitor de rendimiento de Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action TruncateMonitor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 3946654702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application</source>
+          <target>[NAB: SUGGESTION]Aplicación</target>
+          <target>[NAB: SUGGESTION]Liquidación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action ApplicationDemos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1832424259 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demonstrates the posting order optimization in BC 27 for sales documents.</source>
+          <target>Demuestra la optimización del orden de registro en BC 27 para documentos de venta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action InventoryPostingDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1832424259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Order Demo</source>
+          <target>Demostración de orden de registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action InventoryPostingDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 2670008000 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demonstrates how SQL calls are now visible in the Performance Profiler in BC 27.</source>
+          <target>Demuestra cómo las llamadas SQL ahora son visibles en el Analizador de rendimiento en BC 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action SQLCallsDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 2670008000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Calls Profiler Demo</source>
+          <target>Demostración del generador de perfiles de llamadas SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action SQLCallsDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1941606914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Developer</source>
+          <target>[NAB: SUGGESTION]Desarrollador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action DeveloperDemos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 245311861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demonstrates the Database.LockTimeoutDuration feature introduced in BC 27.</source>
+          <target>Demuestra la función Database.LockTimeoutDuration introducida en BC 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action LockTimeoutDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 245311861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LockTimeout Demo</source>
+          <target>Demostración de LockTimeout</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action LockTimeoutDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1832836815 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demonstrates the Guid.CreateSequentialGuid() method for improved database performance in BC 27.</source>
+          <target>Demuestra el método Guid.CreateSequentialGuid() para mejorar el rendimiento de la base de datos en BC 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action SequentialGuidDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1832836815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sequential GUID Demo</source>
+          <target>Demostración de GUID secuencial</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action SequentialGuidDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1981550359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demonstrates the Record.Truncate() method for fast table cleanup in BC 27.</source>
+          <target>Demuestra el método Record.Truncate() para limpieza rápida de tablas en BC 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action TruncateDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 1981550359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rec.Truncate Demo</source>
+          <target>Demostración de Rec.Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action TruncateDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 2499777063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Optimization</source>
+          <target>Optimización SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action ServerDemos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 2982053197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demonstrates FlowField calculation optimizations with SetAutoCalcFields in BC 27.</source>
+          <target>Demuestra las optimizaciones de cálculo de FlowField con SetAutoCalcFields en BC 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action FlowFieldDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1765029509 - Action 2982053197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FlowField Optimization Demo</source>
+          <target>Demostración de optimización de FlowField</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT BC27 Performance Features - Action FlowFieldDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FlowField Performance Demo</source>
+          <target>Demostración de rendimiento de FlowField</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unique customer number.</source>
+          <target>Especifica el número de cliente único.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Control 1524911010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the last sales transaction for this customer (FlowField).</source>
+          <target>Especifica la fecha de la última transacción de venta para este cliente (FlowField).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Control Last Sales Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer name.</source>
+          <target>Especifica el nombre del cliente.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Control 2662608856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total number of sales entries for this customer (FlowField).</source>
+          <target>Especifica el número total de movimientos de venta para este cliente (FlowField).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Control No. of Sales Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Action 2229501958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Runs the FlowField optimization demo to show BC 27 SetAutoCalcFields performance improvements.</source>
+          <target>Ejecuta la demostración de optimización de FlowField para mostrar las mejoras de rendimiento de SetAutoCalcFields de BC 27.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Action RunFlowFieldDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1047047942 - Action 2229501958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run FlowField Performance Demo</source>
+          <target>Ejecutar demostración de rendimiento FlowField</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT FlowField Perf Demo - Action RunFlowFieldDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUID Performance Test</source>
+          <target>Prueba de rendimiento GUID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Control 788537400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the timestamp when the record was created.</source>
+          <target>Especifica la marca de tiempo cuando se creó el registro.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Control Creation Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the test record.</source>
+          <target>Especifica la descripción del registro de prueba.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Control 2897660500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unique record identifier (GUID).</source>
+          <target>Especifica el identificador único del registro (GUID).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Control Record ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Control 2618029887 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of GUID generation used (Standard or Sequential).</source>
+          <target>Especifica el tipo de generación GUID utilizada (Estándar o Secuencial).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Control Record Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Action 1036244905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Runs the GUID performance test to compare standard GUIDs vs sequential GUIDs.</source>
+          <target>Ejecuta la prueba de rendimiento GUID para comparar GUIDs estándar frente a GUIDs secuenciales.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Action RunPerformanceTest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1901643891 - Action 1036244905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Performance Test</source>
+          <target>Ejecutar prueba de rendimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT GUID Performance Test - Action RunPerformanceTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter Number of Records</source>
+          <target>Introduzca número de registros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - NamedType 3914061860" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records must be greater than 0.</source>
+          <target>El número de registros debe ser mayor que 0.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - NamedType RecordCountMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - Control 3123527090 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The demo will create this many records with standard GUIDs and sequential GUIDs to compare performance.</source>
+          <target>La demostración creará esta cantidad de registros con GUID estándar y GUID secuenciales para comparar el rendimiento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - Control Info - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - Control 3123527090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <target>[NAB: SUGGESTION]Información</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - Control Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance Test Parameters</source>
+          <target>Parámetros de prueba de rendimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - Control 1736541834 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the number of records to insert for the performance test.</source>
+          <target>Introduzca el número de registros que se insertarán para la prueba de rendimiento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - Control RecordCount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1401071321 - Control 1736541834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Records</source>
+          <target>Número de registros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Guid Record Count Input - Control RecordCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter Lock Timeout Duration</source>
+          <target>Introduzca duración del tiempo de espera de bloqueo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - NamedType 1908182519" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Timeout must be greater than 0 seconds.</source>
+          <target>El tiempo de espera debe ser mayor que 0 segundos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - NamedType TimeoutMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - Control 3123527090 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Background holds lock for 15 seconds. Values &lt; 15 will timeout, values &gt; 15 should succeed.</source>
+          <target>El segundo plano mantiene el bloqueo durante 15 segundos. Los valores &lt; 15 agotarán el tiempo de espera, los valores &gt; 15 deberían tener éxito.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - Control Info - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - Control 3123527090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <target>[NAB: SUGGESTION]Información</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - Control Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lock Timeout Duration</source>
+          <target>Duración del tiempo de espera de bloqueo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - Control 766984748 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the lock timeout duration in seconds.</source>
+          <target>Introduzca la duración del tiempo de espera de bloqueo en segundos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - Control TimeoutSeconds - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3160445442 - Control 766984748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Timeout (seconds)</source>
+          <target>Tiempo de espera (segundos)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Lock Timeout Input - Control TimeoutSeconds - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 955075197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target>[NAB: SUGGESTION]Detalles</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 955075197 - Control 2798619357 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Displays the SQL Server statement captured by the performance profiler</source>
+          <target>Muestra la instrucción de SQL Server capturada por el generador de perfiles de rendimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node FactBox - Control SQL Statement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 955075197 - Control 2798619357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Statement</source>
+          <target>Instrucción SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node FactBox - Control SQL Statement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profiling Nodes</source>
+          <target>Nodos de generación de perfiles</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 971044367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function or method name captured by the profiler</source>
+          <target>Nombre de la función o método capturado por el generador de perfiles</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Function Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 3286003210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of times this node was executed</source>
+          <target>Número de veces que se ejecutó este nodo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Hit Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 653747200 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates whether this is a SQL statement</source>
+          <target>Indica si se trata de una instrucción SQL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Is SQL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 66992343 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line number in the source code</source>
+          <target>Número de línea en el código fuente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Line Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 1618236431 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unique identifier for the profiling node</source>
+          <target>Identificador único para el nodo de generación de perfiles</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Node ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 3711240756 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID of AL object</source>
+          <target>Id. de objeto AL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Object ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 1418569422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of AL object</source>
+          <target>Nombre de objeto AL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Object Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4048465728 - Control 1085746399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of AL object</source>
+          <target>Tipo de objeto AL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Profiling Node List - Control Object Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate Performance Monitor</source>
+          <target>[NAB: SUGGESTION]Monitor de rendimiento de Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number of the log record.</source>
+          <target>Especifica el número de movimiento del registro de registro.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Control 3127005848 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date and time when the operation was executed.</source>
+          <target>Especifica la fecha y hora en que se ejecutó la operación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Control Operation DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Control 3156524383 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of operation (DeleteAll or Truncate).</source>
+          <target>Especifica el tipo de operación (DeleteAll o Truncate).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Control Operation Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Control 2699180384 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of records affected by the operation.</source>
+          <target>Especifica el número de registros afectados por la operación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Control Records Affected - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Control 3808951907 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the table where the operation was performed.</source>
+          <target>Especifica el nombre de la tabla donde se realizó la operación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Control Table Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user who executed the operation.</source>
+          <target>Especifica el usuario que ejecutó la operación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Action 3183963928 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Runs the Truncate demonstration to compare performance between DeleteAll and Truncate methods.</source>
+          <target>Ejecuta la demostración de Truncate para comparar el rendimiento entre los métodos DeleteAll y Truncate.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Action RunTruncateDemo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 948821877 - Action 3183963928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Truncate Demo</source>
+          <target>Ejecutar demostración de Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Perf Monitor - Action RunTruncateDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate Performance Test Setup</source>
+          <target>Configuración de prueba de rendimiento de Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - NamedType 614856224" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Both Filter From and Filter To must be greater than 0 when filtering is enabled.</source>
+          <target>Tanto Filter From como Filter To deben ser mayores que 0 cuando el filtrado está habilitado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - NamedType BothFiltersMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - NamedType 3459022188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter From must be greater than 0.</source>
+          <target>Filter From debe ser mayor que 0.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - NamedType FilterFromMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - NamedType 3282096652" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter From must be less than or equal to Filter To.</source>
+          <target>Filter From debe ser menor o igual que Filter To.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - NamedType FilterFromMustBeLessOrEqualFilterToErr</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - NamedType 109647125" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter To cannot exceed the total number of records (%1).</source>
+          <target>Filter To no puede exceder el número total de registros (%1).</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Total record count</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - NamedType FilterToCannotExceedRecordCountErr</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - NamedType 2378980511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter To must be greater than 0.</source>
+          <target>Filter To debe ser mayor que 0.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - NamedType FilterToMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - NamedType 3914061860" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of records must be greater than 0.</source>
+          <target>El número de registros debe ser mayor que 0.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - NamedType RecordCountMustBeGreaterThanZeroErr</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 3123527090 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Without filtering: compares DeleteAll() vs Truncate() on full table. With filtering: compares DeleteAll() vs Truncate() on filtered records.</source>
+          <target>Sin filtrado: compara DeleteAll() vs Truncate() en tabla completa. Con filtrado: compara DeleteAll() vs Truncate() en registros filtrados.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control Info - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 3123527090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <target>[NAB: SUGGESTION]Información</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performance Test Parameters</source>
+          <target>Parámetros de prueba de rendimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 921621410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting entry number for the filter range. Only used when filtering is enabled.</source>
+          <target>Número de movimiento inicial para el rango de filtro. Solo se usa cuando el filtrado está habilitado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control FilterFrom - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 921621410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter From Entry No.</source>
+          <target>N.º mov. Filter From</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control FilterFrom - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 950108477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending entry number for the filter range. Only used when filtering is enabled.</source>
+          <target>Número de movimiento final para el rango de filtro. Solo se usa cuando el filtrado está habilitado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control FilterTo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 950108477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter To Entry No.</source>
+          <target>N.º mov. Filter To</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control FilterTo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 1736541834 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the number of records to create for the performance test.</source>
+          <target>Introduzca el número de registros que se crearán para la prueba de rendimiento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control RecordCount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 1736541834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Records</source>
+          <target>Número de registros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control RecordCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 1389180058 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable to test both Truncate and DeleteAll with filters to compare performance.</source>
+          <target>Habilite para probar tanto Truncate como DeleteAll con filtros para comparar el rendimiento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control TestFiltering - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 384403156 - Control 1389180058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test with Filtering</source>
+          <target>Probar con filtrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DT Truncate Record Count - Control TestFiltering - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 198663249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Tipo documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 198663249 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Document Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 198663249 - EnumValue 2004364593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Memo</source>
+          <target>Abono</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Document Type - EnumValue Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 198663249 - EnumValue 821689635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice</source>
+          <target>Factura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Document Type - EnumValue Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1352703510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUID Record Type</source>
+          <target>Tipo de registro GUID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Guid Record Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1352703510 - EnumValue 3103406403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sequential</source>
+          <target>Secuencial</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Guid Record Type - EnumValue Sequential - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1352703510 - EnumValue 2672704373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target>Estándar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Guid Record Type - EnumValue Standard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2246001357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation Type</source>
+          <target>[NAB: SUGGESTION]Tipo de operación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Operation Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2246001357 - EnumValue 389138476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeleteAll</source>
+          <target>DeleteAll</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Operation Type - EnumValue DeleteAll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2246001357 - EnumValue 3792558698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Truncate</source>
+          <target>Truncate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Operation Type - EnumValue Truncate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 311623126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 311623126 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Status - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 311623126 - EnumValue 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target>Activo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Status - EnumValue Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 311623126 - EnumValue 525852245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive</source>
+          <target>Inactivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Status - EnumValue Inactive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 311623126 - EnumValue 3208180638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processed</source>
+          <target>Procesado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DT Truncate Status - EnumValue Processed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1634778039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC27 Performance Features</source>
+          <target>Características de rendimiento de BC27</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet DT BC27 Perf - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
