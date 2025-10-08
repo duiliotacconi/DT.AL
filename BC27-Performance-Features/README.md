@@ -34,13 +34,13 @@ src/
 **Location**: `src/01-PostingOrder/`
 
 BC 27 optimizes the posting sequence in Codeunits 80 (Sales-Post) and 90 (Purch.-Post):
-- Uses `SetCurrentKey(Type, \"Line No.\")` to sort lines by Type first
-- Reduces the probability of locks through consistent posting sequence
+- Uses `SetCurrentKey(Type, "Line No.")` to sort lines by Type first
+- Reduces the probability of deadlocks through consistent posting sequence
 - Improves SQL execution plans
 
 **Demo**: Creates a sales order with 10 mixed-type lines (Item, G/L Account, Resource) in random order. Event subscribers display the optimized posting sequence.
 
-**Benefits**: Faster posting times, reduced lock probability, better SQL performance
+**Benefits**: Faster posting times, reduced deadlock probability, better SQL performance
 
 ---
 
@@ -50,7 +50,7 @@ BC 27 optimizes the posting sequence in Codeunits 80 (Sales-Post) and 90 (Purch.
 
 The Performance Profiler now captures detailed SQL call information:
 - View SQL statements executed
-- Analyze execution times and row counts
+- Analyze execution times
 - Download `.alcpuprofile` files for VS Code analysis
 
 **Demo**: Executes various database operations while profiling SQL interactions.
@@ -66,7 +66,6 @@ The Performance Profiler now captures detailed SQL call information:
 **Location**: `src/03-LockTimeout/`
 
 Improved database lock timeout handling with `Database.LockTimeoutDuration`:
-- Automatic retry mechanisms
 - Configurable timeout durations
 - Better concurrency handling
 
@@ -118,27 +117,27 @@ Fast table cleanup using the new `Rec.Truncate()` method:
 
 **Location**: `src/06-OptimizedFlowFieldCalculations/`
 
-BC 27's `SetAutoCalcFields()` improves FlowField performance:
-- Batches multiple FlowField calculations together
-- Reduces SQL roundtrips from N to 1
-- Optimized GROUP BY queries
+BC 27 introduces a major SQL optimization for FlowField calculations. When multiple FlowFields reference the same table with the same filter, they are now combined into a single OUTER APPLY clause instead of generating multiple separate OUTER APPLY statements.
+
+**How it works**:
+- Previous versions: Each FlowField generated its own OUTER APPLY in the SQL query
+- BC 27: FlowFields from the same source table with identical filters are consolidated into one OUTER APPLY
+- Result: Significantly reduced SQL complexity and improved query performance
 
 **Demo**:
 1. Creates 1,000 customers with 20-120 sales entries each
-2. Uses `SetAutoCalcFields()` for automatic calculation
-3. Displays SQL query analysis with execution metrics
-4. Shows performance improvements vs. individual `CalcFields()` calls
+2. Calculates multiple FlowFields pointing to the same Sales Entry table
+3. Displays SQL query analysis showing the consolidated OUTER APPLY
+4. Demonstrates performance improvements from reduced SQL complexity
 
 **Code Example**:
 ```al
-Customer.SetAutoCalcFields(\"No. of Sales Entries\", \"Last Sales Date\");
-if Customer.FindSet() then
-    repeat
-        // All FlowFields calculated automatically - no CalcFields() needed!
-    until Customer.Next() = 0;
+Customer.CalcFields("No. of Sales Entries", "Last Sales Date");
+// Both FlowFields reference Sales Entry table with the same filter
+// BC 27 consolidates them into ONE OUTER APPLY instead of TWO
 ```
 
-**Benefits**: Faster reports, reduced SQL load, lower resource consumption
+**Benefits**: Faster reports, reduced SQL complexity, lower database load, improved query execution times
 
 ---
 
@@ -201,13 +200,13 @@ All user-facing text uses AL Labels for proper translation support.
 
 ```json
 {
-  \"id\": \"12345678-1234-1234-1234-123456789012\",
-  \"name\": \"BC27 Performance Features Demo\",
-  \"publisher\": \"Duilio Tacconi\",
-  \"version\": \"1.0.0.0\",
-  \"runtime\": \"16.0\",
-  \"application\": \"27.0.0.0\",
-  \"platform\": \"27.0.0.0\"
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "BC27 Performance Features Demo",
+  "publisher": "Duilio Tacconi",
+  "version": "1.0.0.0",
+  "runtime": "16.0",
+  "application": "27.0.0.0",
+  "platform": "27.0.0.0"
 }
 ```
 
@@ -220,21 +219,6 @@ All user-facing text uses AL Labels for proper translation support.
 
 - Microsoft System Application 27.0.0.0
 - Microsoft Base Application 27.0.0.0
-
-## Performance Monitoring
-
-### Built-in Features
-
-- Performance Profiler integration
-- SQL query capture and display
-- Execution time metrics
-- Query log export capabilities
-
-### Recommended Tools
-
-- **SQL Server Profiler**: For detailed database monitoring
-- **VS Code AL Profiler Extension**: For `.alcpuprofile` analysis
-- **Performance Profiler**: Built into Business Central
 
 ## Contributing
 
